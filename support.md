@@ -1,6 +1,6 @@
 ![KeepSharp Logo](logo.png)
 
-# Welcome to KeepSharp Maintenance Trackihg Support
+# Welcome to KeepSharp Maintenance Tracking Support
 
 If you need assistance with KeepSharp Maintenance Tracking, please reach out to us.
 
