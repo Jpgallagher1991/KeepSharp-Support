@@ -1,0 +1,41 @@
+.support-page {
+    background-color: #2C3E50;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+}
+
+.support-page:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+h1, h2, h3 {
+    color: #0066CC;
+}
+
+button {
+    background-color: #0066CC;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #004999;
+}
+
+@media (max-width: 768px) {
+    .support-page {
+        padding: 10px;
+    }
+    button {
+        width: 100%;
+    }
+}
